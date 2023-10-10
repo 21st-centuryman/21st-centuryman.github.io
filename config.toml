@@ -1,0 +1,18 @@
+base_url = "https://21st-centuryman.github.io/"
+compile_sass = true
+theme = "after-dark"
+description = "Poorly written and generally unimportant blog"
+build_search_index = true
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+
+[extra]
+author = "21st"
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
+after_dark_title = "Towards Utopia"
