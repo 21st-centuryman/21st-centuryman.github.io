@@ -43,4 +43,4 @@ I realize I come across as a "nobody understands me" kind of guy. Besides being 
 
 Maybe, the only way of making sure that the stuff that matters is built is by starting it yourself.
 
-Building towards Utopia.
+Building Towards Utopia.
