@@ -37,10 +37,10 @@ I have a purpose in my personal life. I believe I am living with the girl of my 
 
 I do not care about money. I care about building something that matters. 
 
-I realize I come across as a "nobody understands me" kind of guy. Besides being cringy af, I guess this is my way of therapy. Life can be rough, maybe the way to solve this is by just doing something. Maybe a leap of faith is all that's needed. Everything happens for a reason, I do believe that. Maybe the only way of making sure that the stuff that matters is built is by starting it yourself. 
-
 There are ways to be moral in the world. A moral lawyer will try to decrease the number of laws, a greedy one wants to increase it. A moral engineer will build something that helps, a greedy one will just build for those who have the highest bidder. I want to be moral.
 
-And in the end that is the goal of technology,
+I realize I come across as a "nobody understands me" kind of guy. Besides being cringy af, I guess this is my way of therapy. Life can be rough, maybe the way to solve this is by just doing something. Maybe a leap of faith is all that's needed. Everything happens for a reason, I do believe that. 
 
-Utopia.
+Maybe, the only way of making sure that the stuff that matters is built is by starting it yourself.
+
+Building towards Utopia.
