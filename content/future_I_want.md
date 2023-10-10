@@ -41,6 +41,6 @@ I realize I come across as a "nobody understands me" kind of guy. Besides being 
 
 There are ways to be moral in the world. A moral lawyer will try to decrease the number of laws, a greedy one wants to increase it. A moral engineer will build something that helps, a greedy one will just build for those who have the highest bidder. I want to be moral.
 
-And in the end, for me, there is the goal of technology,
+And in the end that is the goal of technology,
 
 Utopia.
