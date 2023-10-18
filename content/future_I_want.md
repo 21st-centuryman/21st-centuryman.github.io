@@ -15,9 +15,9 @@ I guess I can say I do not believe in what I do. Every company has a mission, bu
 
 I believe in Utopia, I believe I can build Utopia. I do not think it's possible to achieve Utopia, but we get closer to it every day through technology. We are closer to Utopia today than our grandparents were, and they were closer to Utopia than their grandparents. Let me show you what Utopia looks like:
 
-![space](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZrMmdkanY4bHR3ZzBzdnpzdnduaGw5ZzBpYXBrc2plYnhmenBhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohuPgl8nF2BDCGZaM/giphy.gif)
-![disease](https://www.who.int/images/default-source/health-topics/smallpox/smallpox-news.png?sfvrsn=fbc6909b_9)
-![space](https://clickamericana.com/wp-content/uploads/Futuristic-freeway-concept-Retrofuturism-770x442.jpg)
+![cyborg](https://github.com/21st-centuryman/21st-centuryman.github.io/blob/main/images/cyborg_hand.gif?raw=true)
+![disease](https://github.com/21st-centuryman/21st-centuryman.github.io/blob/main/images/smallpox_news.png?raw=true)
+![futurism](https://github.com/21st-centuryman/21st-centuryman.github.io/blob/main/images/retrofuturism.jpg?raw=true)
 
 In my generation there are things we can achieve, to go towards this goal:
 
