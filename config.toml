@@ -1,5 +1,6 @@
 base_url = "https://21st-centuryman.github.io/"
 compile_sass = true
+title = "Towards Utopia"
 theme = "after-dark"
 description = "Poorly written and generally unimportant blog"
 build_search_index = true
