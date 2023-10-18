@@ -33,7 +33,7 @@ Do I think my current place of work does this? NO!
 
 I am not sure if I am unhappy with my work. I guess I have a dire need to have a mission to follow, and a purpose to my work. 
 
-I have a purpose in my personal life. I believe I am living with the girl of my life, whom I want to marry someday. I will be proud of my children, That part of my life will be good. I guess I am too philosophical for my own good. I blame my dad for this, always being so political (love you, Dad). I need a purpose for that other part of my life, my professional life.
+I have a purpose in my personal life. I believe I am living with the girl of my life, whom I want to marry someday. I will be proud of my children, That part of my life will be good. I guess I am too philosophical for my own good. I blame my dad for this, always being so political (love you, Dad). I need a purpose for that part of life, in my work.
 
 I do not care about money. I care about building something that matters. 
 
