@@ -1,6 +1,6 @@
 +++
 title = "Introducing Crackhead Futurist Inc"
-date = 2023-10-18
+date = 2023-10-26
 
 [taxonomies]
 categories = ["futurism"]
