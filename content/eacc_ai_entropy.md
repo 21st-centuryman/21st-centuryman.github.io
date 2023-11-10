@@ -18,7 +18,7 @@ To understand the implications of Artificial intelligence we need to discuss the
 
 I guess I should start at the beginning, the very beginning. The universe could easily be understood as a transition of entropy from a low to a high state. The Big Bang was the ultimate low entropy state, and  heat death is the ultimate high entropy state. We are very lucky to exist in such a chaotic and fantastic part of the universe. All the interesting shit is now. 
 
-So if everything in the universe is energy what does that make us? Our matter is energy, all the stuff we love, heat, food, and "vibes" is energy. We are heat-seeking beings, all animals are simply energy-seeking objects, a natural consequence of this chaotic energetic period we live in. But if you think about this progress, Artificial intelligence is just the natural evolution of this idea. If we are going to have beings smart enough to create a "helper" to capture more energy. This is what automation is or, what all machines are, they convert energy to something, which could be a car, a number, or a thought. It is kinda funny how we always seem discontent with the current state of things, but I assume that's the natural consequence of having an energy-seeking mind, the goalpost is always moving. But what do we do with this information, ie what is the goal of this energy seeking?
+So if everything in the universe is energy what does that make us? Our matter is energy, all the stuff we love, heat, food, and "vibes" is energy. We are heat-seeking beings, all animals are simply energy-seeking objects, a natural consequence of this chaotic energetic period we live in. But if you think about this progress, Artificial intelligence is just the natural evolution of this idea. If we are going to have beings smart enough of course they would create a "helper" to capture more energy. This is what automation is or, what all machines are, they convert energy to something, which could be a car, a number, or a thought. It is kinda funny how we always seem discontent with the current state of things, but I assume that's the natural consequence of having an energy-seeking mind, the goalpost is always moving. But what do we do with this information, ie what is the goal of this energy seeking?
 
 # Where are we now?
 
@@ -36,11 +36,15 @@ We have people today arguing that we need to decrease the line, all that will do
 
 # Where could we be going?
 
-We have vaccines that actually solve medicine, medicine's goal is to cure all diseases, and vaccines do this. Why would you ever want to decrease this progress? I want to be able to see my kids more (I do not have children btw) by making travel between countries faster AND cheaper. 
+We have vaccines that actually solve medicine, medicine's goal is to cure all diseases, and vaccines do this. Why would you ever want to decrease this progress? 
 
-We need this line to go up. This is how we make the world better, how we go zero to one, how we make sure our kids have a better future. Of course, we need this energy to be green as well, oil will run out. However, we need this to occur without making the world worse to live in. We could have energy at 1 öre per kW, instead, we need to worry if hospitals have enough energy, this is where we come in.
+I want to be able to see my kids more (I do not have children btw) by making travel between countries easier, faster AND cheaper. Why would I want to decrease this progress?
 
-So what can you do about this?
+If you make something cheaper or make an individual more efficient, it is the same as them getting a salary increase, they can all of the sudden by or use more with less. This is the fundamental idea of capitalism.
+
+It is really important we make this line to go up. This is how we make the world better, how we go zero to one, how we make sure our kids have a better future. Of course, we need this energy to be green as well, oil will run out. However, we need this to occur without making the world worse to live in. We could have energy at 1 öre per kW hour, instead, we need to worry if hospitals have enough energy, this is where we come in.
+
+So what can you do about this, how can AI help you?
 
 I want to introduce you to E/Acc the least ideological ideology on this planet, it has three basic beliefs:
 
