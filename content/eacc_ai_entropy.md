@@ -24,7 +24,7 @@ So if everything in the universe is energy what does that make us? Our matter is
 
 We are currently in a very stagnant situation in the West. Below I have a graph of the energy consumption in Sweden over time.
 
-![energy_consumtipn](https://github.com/21st-centuryman/21st-centuryman.github.io/blob/main/images/energy_consumtion.png?raw=true)
+![energy_consumtipn](https://github.com/21st-centuryman/21st-centuryman.github.io/blob/main/images/energy_consumtipn.png?raw=true)
 
 You might interject with arguments of climate change activism and that we do not have enough energy to sustain all humans on earth. With that in mind let me quickly make some points and continue with my thesis.
 
