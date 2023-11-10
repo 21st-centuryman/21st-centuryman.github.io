@@ -62,4 +62,6 @@ Engineers are not responsible for the negative consequences of their technology.
 
 Idk there are plenty of other applications, this is simply what I mentioned right now.
 
-Basically, AI is the tool you can use to make you superhuman; LLMs are mainly for the normie population, but you can use it to build something that matters and can make society closer to utopia. So build cool shit, you are morally obligated to.
+Basically, AI is the tool you can use to make you superhuman; LLMs are mainly for the normie population, but you can use it to build something that matters and can make society closer to utopia. 
+
+So build cool shit, you are morally obligated to.
