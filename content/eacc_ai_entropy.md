@@ -42,7 +42,9 @@ I want to be able to see my kids more (I do not have children btw) by making tra
 
 If you make something cheaper or make an individual more efficient, it is the same as them getting a salary increase, they can all of the sudden by or use more with less. This is the fundamental idea of capitalism.
 
-It is really important we make this line to go up. This is how we make the world better, how we go zero to one, how we make sure our kids have a better future. Of course, we need this energy to be green as well, oil will run out. However, we need this to occur without making the world worse to live in. We could have energy at 1 öre per kW hour, instead, we need to worry if hospitals have enough energy, this is where we come in.
+It is really important we make this line to go up. This is how we make the world better, how we go zero to one, how we make sure our kids have a better future. Of course, we need this energy to be green as well, oil will run out. However, we need this to occur without making the world worse to live in. We could have energy at 1 öre per kW hour, instead, we need to worry if hospitals have enough energy.
+
+This is where we as engineers come in.
 
 So what can you do about this, how can AI help you?
 
