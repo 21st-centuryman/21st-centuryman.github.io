@@ -58,8 +58,8 @@ Basically, I am telling you to build what you think is right, and push through t
 
 Think about something like medicine or biotech. What is the goal of these fields? To cure all diseases! So why can't we use AI to mass produce genes for genetic engineering so we can change our software to make us all able to not get sick? Who cares about the negative consequences of genetic engineering, a cure for all diseases that also allows us to make superhumans is a tradeoff I would make. 
 
-Or pornography/distractions; how do we stop a generation from consuming their life away? We create AI mentors and helpers that help you reach your goal, could it be fitness? productivity? whatever you want, it will tell you when you are diverging from this goal. but also know when you should give your mind a rest.
+Engineers are not responsible for the negative consequences of their technology. Oppenheimer made a hammer, he made a tool. He did not use the bomb, the US military did. If the positive implications are big enough you have to do it. You can make AI mentors that make every person their ideal version of themselves, Make an AI that helps you improve 3d printers for mass consumption, Yes this can make someone with bad intentiosn competent, or make an machine that can build whatever horrors some sicko can imagine. If it is a trade you would do you need to build it. I believe the vst majority of people have good intentions, and I trust this progress. You should to.
 
-Idk there are plenty of applications, this is simply what I mentioned right now.
+Idk there are plenty of other applications, this is simply what I mentioned right now.
 
 Basically, AI is the tool you can use to make you superhuman; LLMs are mainly for the normie population, but you can use it to build something that matters and can make society closer to utopia. So build cool shit, you are morally obligated to.
