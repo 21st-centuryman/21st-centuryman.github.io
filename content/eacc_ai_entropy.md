@@ -16,7 +16,7 @@ To understand the implications of Artificial intelligence we need to discuss the
 
 # Where did we come from?
 
-I guess I should start at the beginning, the very beginning. The universe could easily be understood as a transition of entropy from a low to a high state. The Big Bang was the ultimate low entropy state, and  heat death is the ultimate high entropy state. We are very lucky to exist in such a chaotic and fantastic part of the universe. All the interesting shit is now. 
+I guess I should start at the beginning, the very beginning. The universe could easily be understood as a transition of entropy from a low to a high state. The Big Bang was the ultimate low entropy state, and heat death is the ultimate high entropy state. We are very lucky to exist in such a chaotic and fantastic part of the universe. All the interesting shit is now. 
 
 So if everything in the universe is energy what does that make us? Our matter is energy, all the stuff we love, heat, food, and "vibes" is energy. We are heat-seeking beings, all animals are simply energy-seeking objects, a natural consequence of this chaotic energetic period we live in. But if you think about this progress, Artificial intelligence is just the natural evolution of this idea. If we are going to have beings smart enough of course they would create a "helper" to capture more energy. This is what automation is or, what all machines are, they convert energy to something, which could be a car, a number, or a thought. It is kinda funny how we always seem discontent with the current state of things, but I assume that's the natural consequence of having an energy-seeking mind, the goalpost is always moving. But what do we do with this information, ie what is the goal of this energy seeking?
 
