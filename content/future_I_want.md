@@ -21,7 +21,7 @@ I believe in Utopia, I believe I can build Utopia. I do not think it's possible 
 
 In my generation there are things we can achieve, to go towards this goal:
 
-* Limitless energy, with nuclear fusion, and fission. Or we can simply get energy decentralized with solar panels and battery packs. Both are good options.
+* Limitless energy, with nuclear fusion, and fission. I am all for decentralization through solar panels, but there is only one good option.
 * Make the world disease-free, instead of treating our permanent diseases with temporary solutions (medicine), we can instead genetically engineer our body to be resistant to bacteria. After all, this is what vaccines do.
 * Improve ourselves with artificial intelligence that mentors us, and helps us become the person we want to become. The age of distraction, the age of porn, the age of satisfaction, and mindless scrolling might soon be over.
 * Produce everything using 3D printers and computer-aided design, ChatGPT can already generate OpenSCAD code for you, the next step is just allowing more to be produced with 3D printers.
