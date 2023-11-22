@@ -1,6 +1,6 @@
 +++
 title = "Freedom, Control, and Technology"
-date = 2023-11-12
+date = 2023-11-22
 
 [taxonomies]
 categories = ["futurism", "ideology"]
