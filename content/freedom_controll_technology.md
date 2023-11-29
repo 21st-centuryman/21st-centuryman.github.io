@@ -3,7 +3,7 @@ title = "Freedom, Control, and Technology"
 date = 2023-11-22
 
 [taxonomies]
-categories = ["futurism", "ideology"]
+categories = ["futurism"]
 +++
 
 > Faster than all but a few now imagine, microprocessing will subvert and destroy the nation-state, creating new forms of social organization in the process.
@@ -17,7 +17,7 @@ The reason I am writing this today has a lot to do with how I hope that society 
 
 I think the fundamental issue is that according to David Friedman:
 
-> "There are essentially only three ways that I can get another person to help me achieve my ends: love, trade, and force."
+> There are essentially only three ways that I can get another person to help me achieve my ends: love, trade, and force.
 - David Friedman
 
 So why do we really have taxation, welfare, and laws (among other things)? Because we somewhere agreed that we can not trust the average Sven to donate for what we think is the "better good". Instead, we use force to create the society we want. The biggest issue with this is that we can not tax 70% of someone's income without complaints, so instead we use hidden taxes like "arbetsgivaravgift" which allows us to tax a citizen's income twice. In order to create a better society we therefore can only use the other two methods, trade and love. 
