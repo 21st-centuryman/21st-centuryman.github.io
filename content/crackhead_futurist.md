@@ -27,13 +27,9 @@ We care about the future.
 
 We are driven.
 
-We are not crazy.
-
 We will never stop at anything to build the future we want.
 
 I would love to work 8 to 24  on something I love. My current employer does not give me this. Can you? 
-
-If not should I start my own firm? I’m not sure if I can do that in Sweden. I am not allowed to fire anyone I want here. Can we build the future with such an idiotic law?
 
 I remember at the beginning of my time at KTH, we were introduced to the Engineering Union of Sweden. Their representative told us “Sweden has the most patents per capita after Switzerland”. Is that something to brag about?
 
@@ -41,11 +37,11 @@ Parents are nothing more than a legal document saying “Hey I want credit for a
 
 We need more crackhead futurist inc everywhere. This is not a Swedish issue. This is a humanity issue.
 
-The one thing I can say about Elon that got from that book is that Man is thinking about humanity, he does not care about nations, politics, or regulation. Despite being a massive asshole, at least he gets it done.
+The one thing I can say about Elon that got from that book is that he is thinking about humanity, he does not care about nations, politics, or regulation. Despite being a massive asshole, at least he gets it done.
 
 When I was 8 Thomas Edison was my hero. I knew from day one what I wanted to become. An Inventor. 
 
-I even promised my friend I would build him a lightsaber. I don’t talk to this friend anymore, but I intend to keep that promise. I am therefore asking myself if regulations are the reason I am not building or maybe it is just the excuse I am using for not building something that matters. To be honest, I am writing this post drunk instead of building something that matters.
+I even promised my friend I would build him a lightsaber. I don’t talk to this friend anymore, but I intend to keep that promise. I am therefore asking myself if regulations are the reason I am not building or maybe it is just the excuse I am using for not building something that matters. To be honest, I am writing this post after a night out instead of building something that matters.
 
  I’m reminded of a tweet I saw recently on X.
 
