@@ -60,7 +60,7 @@ Think about something like medicine or biotech. What is the goal of these fields
 
 Engineers are not responsible for the negative consequences of their technology. Oppenheimer made a hammer, he made a tool. He did not use the bomb, the US military did. If the positive implications are big enough you have to do it. You can make AI mentors that make every person their ideal version of themselves, Make an AI that helps you improve 3d printers for mass consumption, Yes this can make someone with bad intentiosn competent, or make an machine that can build whatever horrors some sicko can imagine. If it is a trade you would do you need to build it. I believe the vst majority of people have good intentions, and I trust this progress. You should to.
 
-Idk there are plenty of other applications, this is simply what I mentioned right now.
+There are plenty of other applications, this is simply what I mentioned right now.
 
 Basically, AI is the tool you can use to make you superhuman; LLMs are mainly for the normie population, but you can use it to build something that matters and can make society closer to utopia. 
 
