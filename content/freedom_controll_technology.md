@@ -6,12 +6,7 @@ date = 2023-11-22
 categories = ["futurism"]
 +++
 
-> Faster than all but a few now imagine, microprocessing will subvert and destroy the nation-state, creating new forms of social organization in the process.
-- The Sovereign Individual 
-
-I think I might be slightly autistic, or at least this is what it feels like when I talk about this issue with friends and family.
-
-I care a lot about the first principles, or at least what it means to support certain policies over others. For example, taxation is theft, the literal definition of theft is to forcefully take something from someone without taking into account whether or not they give their consent. If this makes taxation bad is a different issue, but I care more that we keep the definition than the level of tax we should implement.
+I care a lot about the first principles, or at least what it means to support certain policies over others.
 
 The reason I am writing this today has a lot to do with how I hope that society develops in my lifetime. I care a lot about decentralization not because it is a better, or if it is a more efficient system (it is not). But more to do with control. I wish I could trust a bureaucrat as much as I trust a random Swedish citizen or my neighbor, but as history or our current situation tells me, this would be a fool's errand.
 
